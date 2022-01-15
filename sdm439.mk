@@ -133,6 +133,26 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     StitchImageService
 
+# GBoard
+PRODUCT_PACKAGES += \
+    Gboard
+
+# ViaBrowser
+PRODUCT_PACKAGES += \
+    ViaBrowser
+
+# MiXplorer
+PRODUCT_PACKAGES += \
+    MiXplorer 
+
+# MiCalculator
+PRODUCT_PACKAGES += \
+    MiCalculator 
+
+# GoogleRecorder
+PRODUCT_PACKAGES += \
+    GoogleRecorder                
+
 # Display
 PRODUCT_PACKAGES += \
     android.hardware.graphics.allocator@2.0-impl \
