@@ -8,3 +8,6 @@ iorapd.readahead.enable=true
 
 # Zygote Preforking
 persist.device_config.runtime_native.usap_pool_enabled=true
+
+# CornersRadiusGboard
+ro.com.google.ime.corner_key_r=35
